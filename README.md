@@ -19,6 +19,10 @@ Code for SpringBoot MicroServices Blog Series
 
 Ex: `spring-boot-microservices-series> docker-compose up -d catalog-service --build --force-recreate`
 
+or 
+
+docker-compose up -d 
+
 
 * MySQL container:
      * hostname: mysqldb
